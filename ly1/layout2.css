@@ -1,0 +1,100 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.main{
+     width: 60%;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(144, 179, 179);
+    
+}
+.Logo{
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-right: 50px;
+
+}
+.nav{
+    display: flex;
+   
+    margin-left: 70%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.header{
+    margin-bottom: 10px;
+    display: flex;
+    height: 120px;
+    padding: 30px;
+    background-color: rgb(47, 221, 4);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.into{
+    margin-bottom: 10px;
+    display: flex;
+    height: 70px;
+    padding: 30px;
+    background-color: rgb(184, 220, 24);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    
+    height: 30rem;
+    margin-right: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(198, 17, 230);
+   
+}
+.box2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(218, 160, 0);
+    height: 30rem;
+    width: 50%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.box3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(72, 53, 175);
+    height: 30rem;
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    margin-top: 10px;
+    background-color: rgb(12, 234, 234);
+}
+.oop{
+    margin-bottom: 10px;
+    display: flex;
+    height: 80px;
+    background-color: rgb(8, 179, 241);
+    padding: 10px;
+    
+}
