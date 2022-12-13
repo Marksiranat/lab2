@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.letf {
+
+    width: 55%;
+    margin: 80px;
+
+
+}
+
+.top {
+    height: 70px;
+    background-color: brown;
+}
+
+.m1 {
+
+    height: 40px;
+    background-color: rgb(29, 216, 129);
+}
+
+.mk {
+    height: 20px;
+
+    width: 100%;
+    background-color: rgb(238, 9, 5);
+}
+
+.mk0 {
+    width: 8rem;
+    height: 16rem;
+    margin-bottom: 15px;
+    border: 1px solid black;
+
+}
+
+.box {
+    height: 120px;
+    margin-top: 5px;
+    width: 100%;
+    background-color: rgb(228, 239, 18);
+}
+
+.mv {
+    display: flex;
+    height: 200px;
+    margin-top: 70px;
+    justify-content: space-between;
+}
+
+.text {
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.ohm {
+    margin-top: 8rem;
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+}
+
+.mark {
+    width: 55%;
+
+}
+
+.pin {
+    margin-left: 50px;
+    margin-top: 70px;
+    width: 40%;
+    height: 55.8rem;
+    border: 1px solid black;
+}
+.rigth{
+    
+    width: 45%;
+    margin: 80px;
+}
+.photo{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(9, 240, 232);
+}
+.p1{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(31, 135, 8);
+}
+.ms{
+    margin-top: 20%;
+   margin-left: 20%;
+}
+.con{
+    display: flex;
+    margin-top: 20px;
+    height: 200px;
+}
